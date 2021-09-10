@@ -263,5 +263,30 @@ Koszt: %s"/>
 		<e k="GlobalCompanyPlaceable_PlaceableDisplay_function_small" v="Tekst (dowolnie definiowalny) w jednym wierszu."/>
 		<e k="GlobalCompanyPlaceable_PlaceableDisplay_shopItem_big" v="Duży wyświetlacz cyfrowy"/>
 		<e k="GlobalCompanyPlaceable_PlaceableDisplay_function_big" v="Tekst (dowolnie definiowalny) w kilku wierszach."/>
+		
+		
+		
+				<!-- AnimalFeeder -->
+		<e k="GC_animalFeeder_backupTitie" v="GEA Mixfeeder System"/>
+		<e k="GC_animalFeeder_openGui" v="Otwórz panel"/>
+		<e k="GC_animalFeeder_gui_info" v="Zarządzaj systemem karmienia tutaj!"/>
+		<e k="GC_animalFeeder_gui_startManual" v="Ręczne uruchamianie systemu"/>\
+		<e k="GC_animalFeeder_gui_FeedTimes_title" v="Czasy karmienia"/>
+		<e k="GC_animalFeeder_gui_hist_header" v="Statystyki"/>
+		<e k="GC_animalFeeder_gui_bunker_title" v="Przegląd zasobników"/>
+		<e k="GC_animalFeeder_gui_mixingRatio_title" v="Proporcje mieszania - TMR"/>
+		<e k="GC_animalFeeder_gui_hist_text1" v="Całkowite zużycie wczoraj:"/>
+		<e k="GC_animalFeeder_gui_hist_text2" v="%s zużycie wczoraj:"/>
+		<e k="GC_animalFeeder_gui_hist_val" v="%s Litrów"/>
+		<e k="GC_animalFeeder_gui_hist_time" v="Czas %s:00"/>
+		<e k="GC_animalFeeder_gui_demandPercent" v="Zwiększ ilość:"/>
+		<e k="GC_animalFeeder_gui_literPerDrive" v="Dozowanie:"/>
+		<e k="GC_animalFeeder_gui_bunker_name" v="Zasobnik %s:"/>
+		<e k="GC_animalFeeder_gui_mixingRatio_warnung" v="Stosunek mieszania musi być 100%!"/>
+		<e k="GC_animalFeeder_gui_warningHeader" v="System żywienia - ostrzeżenia (%s)"/>
+		<e k="GC_animalFeeder_gui_warningText_bunkerEmpty" v="%s: %s pusty!"/>
+		<e k="GC_animalFeeder_gui_warningText_noConnectedAnimalTrough" v="Nie znaleziono koryta!"/>
+		<e k="GC_animalFeeder_gui_warningText_toHighDeltaForTroug" v="Zbyt duża pojemność!"/>
+		
 	</elements>
 </l10n>
